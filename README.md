@@ -10,13 +10,14 @@ Here is a preview of the project:
 
 ## Live Demo
 
-Check out the live version of the project here: [Live Demo](https://gpt3-landing-page.example.com)
+Check out the live version of the project here: [Live Demo](https://gpt-3-uiux.netlify.app/)
 
 ## Features
 
 - **Modern Design**: A visually appealing and clean user interface.
 - **Responsive Layout**: Optimized for desktops, tablets, and mobile devices.
 - **React Components**: Built with reusable and modular React components.
+- **PWA Support**: The website is a Progressive Web App, allowing users to install it as an app on both desktop and mobile devices.
 
 ## Technologies Used
 
